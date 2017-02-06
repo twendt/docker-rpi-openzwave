@@ -1,0 +1,3 @@
+etc
+dist/*.deb
+qemu-arm-static
